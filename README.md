@@ -1,4 +1,4 @@
-# LangGraph
+# LangGraph 🦜🕸️
 
 LangGraph, doğal dil işleme (NLP) ve konuşma tanıma gibi alanlarda kullanılan yapay zeka uygulamaları geliştirmek için kullanılan bir Python kütüphanesidir. Bu kütüphane, dil modellemesi ve akışları (flows) oluşturma konusunda kolaylık sağlar.
 
