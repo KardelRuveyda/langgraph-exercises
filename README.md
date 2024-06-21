@@ -32,6 +32,13 @@ graph.set_finish_point("node2")
 
 app = graph.compile()
 
+
 response = app.invoke()
 print(response)
 ```
+
+## Makale
+
+LangGraph hakkında daha fazla bilgi edinmek ve detaylı bir inceleme okumak için aşağıdaki makaleyi ziyaret edebilirsiniz:
+
+[Thor ve Loki Gibi: LangChain ve LangGraph'ın Güçlü İşbirliği](https://ruveydakardelcetin.medium.com/thor-ve-loki-gibi-langchain-ve-langgraphın-güçlü-i̇şbirliği-041b16fe14ba)
