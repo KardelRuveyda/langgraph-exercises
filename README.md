@@ -39,6 +39,8 @@ print(response)
 
 ## Makale
 
+![image](https://github.com/KardelRuveyda/langgraph-exercises/assets/33912144/c817bc97-dbca-4656-84ef-98443243270b)
+
 LangGraph hakkında daha fazla bilgi edinmek ve detaylı bir inceleme okumak için aşağıdaki makaleyi ziyaret edebilirsiniz:
 
 [Thor ve Loki Gibi: LangChain ve LangGraph'ın Güçlü İşbirliği](https://ruveydakardelcetin.medium.com/thor-ve-loki-gibi-langchain-ve-langgraphın-güçlü-i̇şbirliği-041b16fe14ba)
